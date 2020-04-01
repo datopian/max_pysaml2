@@ -1,3 +1,7 @@
+[WIP]
+
+TODO Finish README
+
 This module provides some quick monkey-patches to allow the pysaml2 library to 
 work with MAX.gov which uses a non-standard saml2 implementation.
 
